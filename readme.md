@@ -4,7 +4,7 @@ Proyek ini merupakan rancangan pengembangan ekosistem website SYKO, yang akan me
 
 ## 1. Struktur Halaman Utama (Landing Pages)
 
-### 1.1. SYKO GROUP
+### 1.1. SYKA GROUP
 Halaman ini berfungsi sebagai Company Profile utama yang menjelaskan perusahaan secara umum.
 *   **Konten & Fitur:**
     *   Company Profile (Sejarah, Visi, Misi, Tujuan perusahaan).
@@ -13,13 +13,13 @@ Halaman ini berfungsi sebagai Company Profile utama yang menjelaskan perusahaan 
     *   (Konten informasi publik lainnya akan ditambahkan secara bertahap saat konsep sudah matang).
 *   **Hak Akses:** Publik (Tidak perlu login).
 
-### 1.2. SYKO TRADING
+### 1.2. SYKA TRADING
 Halaman ini ditujukan sebagai portal utama untuk layanan trading, membedakan antara pengunjung umum dan nasabah.
 *   **Konten & Fitur:**
     *   **Bagi Non-Subscriber (Publik):** Akan ditampilkan halaman Company Profile terkait layanan trading (Desain dan fitur dapat berubah/ditambahkan ke depannya).
     *   **Bagi Subscriber:** Disediakan fitur **Login**. Setelah masuk, pengguna dapat mengakses **Modul Trading CMS** terbaik dan eksklusif yang disediakan oleh SYKO.
 
-### 1.3. SYKO EVENT ORGANIZER
+### 1.3. SYKA EVENT ORGANIZER
 Halaman ini difokuskan pada layanan manajemen acara (event) dan pemesanan layanan.
 *   **Konten & Fitur:**
     *   **Portfolio Event:** Halaman berisi galeri dan berita (news) mengenai event-event yang telah sukses diselenggarakan.
