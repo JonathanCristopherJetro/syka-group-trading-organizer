@@ -1,4 +1,4 @@
-# Website Development Plan: SYKO Web Portal
+# Website Development Plan: SYKA Web Portal
 
 Proyek ini merupakan rancangan pengembangan ekosistem website SYKO, yang akan memiliki tiga landing page utama beserta sistem backend manajemen (CMS) yang saling terintegrasi.
 
